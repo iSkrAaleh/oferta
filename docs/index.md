@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# Portal de Oferta Académica
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Bienvenidos al portal oficial de oferta académica. Este sitio centraliza la información de las diferentes facultades, estructurando las carreras y los títulos profesionales que se otorgan, para facilitar su consulta.
 
-## Commands
+Utilice el menú de navegación para explorar la oferta de cada facultad:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* Ciencias Exactas y Naturales
+* Ciencias Sociales, Educación y Humanidades
+* Ingenierías y Arquitectura
+* Computación
